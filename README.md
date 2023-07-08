@@ -2,7 +2,7 @@
 
 Submitted by: Hansol Lee
 
-Time spent: ~3.5 hours
+Time spent: ~3 hours
 
 ## Required Features
 
