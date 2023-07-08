@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/b0fm36A' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![web102_prework](https://github.com/hc-lee/web102_prework/assets/106113398/1f30feb7-98a8-4c26-93c8-c8e77098e833)
+
 
 ## Notes
 
